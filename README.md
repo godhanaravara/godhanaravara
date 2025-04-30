@@ -18,9 +18,9 @@ I'm a Computer Science graduate student at *Ohio University*, with strong hands-
 
 ### 📌 Featured Projects
 
-📁 **[U.S. Turbulence Visualizer]()**
+📁 **[U.S. Turbulence Visualizer]()**  
 Interactive dashboard to explore turbulence zones by altitude, time, and risk category  
-→ Built using: Plotly Dash, Flask, GeoPandas 
+→ Built using: Plotly Dash, Flask, GeoPandas  
 → Adds explainability and visual context to model predictions
 
 📁 **[Turbulence Risk Predictor]()**  
