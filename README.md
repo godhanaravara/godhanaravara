@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Godha Naravara 👋</h1>
+<h1 align="center">Hello! I'm Godha 👋</h1>
 <p align="center">
   <em>MS in Computer Science | Data Science • Machine Learning • Analytics • Cloud</em><br>
   <em>Passionate about continuous learning and building intelligent, scalable, and impactful software.</em>
@@ -10,53 +10,86 @@
 
 I'm a Computer Science graduate student at **Ohio University**, with strong hands-on experience in building machine learning models, creating insightful visualizations, and developing end-to-end ML workflows. I enjoy solving real-world problems using data, cloud tools, and code.
 
-- 🔬 Research:  Machine learning for **aviation turbulence forecasting** using PIREPs + ERA5 weather data, with spatial pattern recognition via PCA and K-Means clustering
-- 🏋️ Strengths: **Data wrangling**, **feature engineering**, **model evaluation**, **imbalance handling** (SMOTE, Isolation Forest), and interpretable model development using ensemble methods
-- 💻 Tools and Technologies: Python, Scikit-learn, Gradient Boosting (XGBoost, CatBoost), TensorFlow, Docker, AWS, SQL, Plotly, Git
-- 🔧 Developer Skills: Angular, React, Node.js, REST APIs, JSON/XML, Selenium
-- 🎓 Current Interests: MLOps, geospatial mapping, explainable AI dashboards, and cloud-deployed ML systems
+- 🔬 **Research**:  Machine learning for aviation turbulence forecasting using PIREPs + ERA5 with PCA and K-Means
+- 💪 **Core Strengths:** Data wrangling, feature engineering, class balancing (SMOTE, Isolation Forest), and model tuning
+- 🎓 **Current Interests**: MLOps, geospatial mapping, AI dashboards, and cloud-deployed ML systems
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
 🗺️ **[U.S. Turbulence Visualizer]()**  
 Interactive dashboard to explore turbulence zones by altitude, time, and risk category  
-→ Built using: **Plotly Dash**, **Flask**, **GeoPandas**  
+→ Built using: Plotly Dash, Flask, GeoPandas 
 → Adds explainability and visual context to model predictions
 
 🌪️ **[Turbulence Risk Predictor]()**  
 Forecasts severe turbulence zones using 1.1M+ flight reports and ERA5 reanalysis weather data  
-→ Highlights: **Data cleaning**, **feature engineering**, **class balancing** (SMOTE, Isolation Forest), **hyperparameter tuning**  
-→ Built with: **XGBoost**, **PCA**, **KMeans**, **GeoPandas**, **Plotly**  
-→ Achieved **91.8% accuracy** on unseen 2025 flight data
+→ Highlights: Data cleaning, feature engineering, SMOTE, Isolation Forest, PCA, XGBoost  
+→ Achieved *91.8% accuracy* on unseen 2025 flight data
 
 🧬 **[Cancer Genomics Classifier]()**  
 Predicts cancer outcomes using 8,000+ genomic features and ensemble models  
 → Focus: Random Forest modeling with 9-fold cross-validation  
-→ Achieved **86% sensitivity** and **90% specificity**
+→ Achieved *86% sensitivity* and *90% specificity*
 
 ---
 
-### 🛠️ Technical Skills
+### ⚡ Technical Skills
 
-**Languages & Databases:**  
-Python, SQL, R, MySQL, MATLAB, C++, Java, CSS, XML 
+#### • Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**Machine Learning & Modeling:**  
-Scikit-learn, XGBoost, CatBoost, TabNet, Random Forest, , MLP, Logistic Regression, KNN, IsolationForest, SMOTE, Feature Engineering, Time Series Forecasting, Hyperparameter Tuning (GridSearchCV, HalvingGridSearchCV)
+#### • Machine Learning & Modeling
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B24?style=for-the-badge&logo=xgboost&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-ffcc00?style=for-the-badge&logoColor=black)
+![TabNet](https://img.shields.io/badge/TabNet-blue?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-darkgreen?style=for-the-badge)
+![MLP](https://img.shields.io/badge/MLP-neuralnet-8A2BE2?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-6A5ACD?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-algorithm-ffa500?style=for-the-badge)
+![SMOTE](https://img.shields.io/badge/SMOTE-brown?style=for-the-badge)
+![IsolationForest](https://img.shields.io/badge/Isolation%20Forest-gray?style=for-the-badge)
 
-**Data Visualization & Geospatial:**  
-Matplotlib, Seaborn, Plotly, Plotly Dash, GeoPandas, Cartopy, SHAP
+#### • Data Wrangling & Engineering
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NetCDF4](https://img.shields.io/badge/NetCDF4-004d99?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
 
-**Data Manipulation & Engineering:**
-Pandas, NumPy, Scikit-optimize, OpenCV, NetCDF4 (ERA5 data), JSON/XML data pipelines
+#### • Visualization & Explainability
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Dash-003366?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-9A1EAE?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge)
+![Cartopy](https://img.shields.io/badge/Cartopy-003300?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-explainableAI-red?style=for-the-badge)
 
-**Big Data & Tools:**  
-AWS, Docker, Git, GitHub Actions, WSL (Ubuntu), Jupyter Notebook, Google Colab
+#### • Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-Ubuntu-orange?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-**Web & DevOps:**  
-Flask, FastAPI, Angular, React, Node.js, JSON/XML, REST APIs
+#### • Supporting Technologies
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005f73?style=for-the-badge&logo=fastapi&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST--API-005C84?style=for-the-badge)
 
 ---
 <!-- 
@@ -71,6 +104,5 @@ Flask, FastAPI, Angular, React, Node.js, JSON/XML, REST APIs
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/godha-naravara/)
-- 💻 [GitHub](https://github.com/godhanaravara)
-- 📬 godhanaravara@outlook.com
+- 🇮🇳 [LinkedIn](https://www.linkedin.com/in/godha-naravara/)
+- ✉ godhanaravara@outlook.com
