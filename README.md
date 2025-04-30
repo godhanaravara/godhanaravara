@@ -10,25 +10,25 @@
 
 I'm a Computer Science graduate student at **Ohio University**, with strong hands-on experience in building machine learning models, creating insightful visualizations, and developing end-to-end ML workflows. I enjoy solving real-world problems using data, cloud tools, and code.
 
-- 🔬 **Research**:  Machine learning for aviation turbulence forecasting using PIREPs + ERA5 with PCA and K-Means
-- 💪 **Core Strengths:** Data wrangling, feature engineering, class balancing (SMOTE, Isolation Forest), and model tuning
-- 🎓 **Current Interests**: MLOps, geospatial mapping, AI dashboards, and cloud-deployed ML systems
+✦ **Research**:  Machine learning for aviation turbulence forecasting using PIREPs + ERA5 with PCA and K-Means
+✦ **Core Strengths:** Data wrangling, feature engineering, class balancing (SMOTE, Isolation Forest), and model tuning
+✦ **Current Interests**: MLOps, geospatial mapping, AI dashboards, and cloud-deployed ML systems
 
 ---
 
 ### 📌 Featured Projects
 
-🗺️ **[U.S. Turbulence Visualizer]()**  
+📁 **[U.S. Turbulence Visualizer]()**  
 Interactive dashboard to explore turbulence zones by altitude, time, and risk category  
 → Built using: Plotly Dash, Flask, GeoPandas 
 → Adds explainability and visual context to model predictions
 
-🌪️ **[Turbulence Risk Predictor]()**  
+📁 **[Turbulence Risk Predictor]()**  
 Forecasts severe turbulence zones using 1.1M+ flight reports and ERA5 reanalysis weather data  
 → Highlights: Data cleaning, feature engineering, SMOTE, Isolation Forest, PCA, XGBoost  
 → Achieved *91.8% accuracy* on unseen 2025 flight data
 
-🧬 **[Cancer Genomics Classifier]()**  
+📁 **[Cancer Genomics Classifier]()**  
 Predicts cancer outcomes using 8,000+ genomic features and ensemble models  
 → Focus: Random Forest modeling with 9-fold cross-validation  
 → Achieved *86% sensitivity* and *90% specificity*
@@ -104,5 +104,5 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 
 ### 📫 Connect With Me
 
-- 🇮🇳 [LinkedIn](https://www.linkedin.com/in/godha-naravara/)
-- ✉ godhanaravara@outlook.com
+🇮🇳 [LinkedIn](https://www.linkedin.com/in/godha-naravara/)
+✉ godhanaravara@outlook.com
