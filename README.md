@@ -10,8 +10,8 @@
 
 I'm a Computer Science graduate student at **Ohio University**, with strong hands-on experience in building machine learning models, creating insightful visualizations, and developing end-to-end ML workflows. I enjoy solving real-world problems using data, cloud tools, and code.
 
-✦ **Research**:  Machine learning for aviation turbulence forecasting using PIREPs + ERA5 with PCA and K-Means
-✦ **Core Strengths:** Data wrangling, feature engineering, class balancing (SMOTE, Isolation Forest), and model tuning
+✦ **Research**:  Machine learning for aviation turbulence forecasting using PIREPs + ERA5 with PCA and K-Means<br>
+✦ **Core Strengths:** Data wrangling, feature engineering, class balancing (SMOTE, Isolation Forest), and model tuning<br>
 ✦ **Current Interests**: MLOps, geospatial mapping, AI dashboards, and cloud-deployed ML systems
 
 ---
@@ -104,5 +104,5 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 
 ### 📫 Connect With Me
 
-🇮🇳 [LinkedIn](https://www.linkedin.com/in/godha-naravara/)
+🇮🇳 [LinkedIn](https://www.linkedin.com/in/godha-naravara/)<br>
 ✉ godhanaravara@outlook.com
