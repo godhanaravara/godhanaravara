@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science graduate student at **Ohio University**, with strong hands-on experience in building machine learning models, creating insightful visualizations, and developing end-to-end ML workflows. I enjoy solving real-world problems using data, cloud tools, and code.
+I'm a Computer Science graduate student at *Ohio University*, with strong hands-on experience in building machine learning models, creating insightful visualizations, and developing end-to-end ML workflows. I enjoy solving real-world problems using data, cloud tools, and code.
 
 ✦ **Research**:  Machine learning for aviation turbulence forecasting using PIREPs + ERA5 with PCA and K-Means<br>
 ✦ **Core Strengths:** Data wrangling, feature engineering, class balancing (SMOTE, Isolation Forest), and model tuning<br>
@@ -18,17 +18,17 @@ I'm a Computer Science graduate student at **Ohio University**, with strong hand
 
 ### 📌 Featured Projects
 
-📁 **[U.S. Turbulence Visualizer]()**  
+📁 **U.S. Turbulence Visualizer**  
 Interactive dashboard to explore turbulence zones by altitude, time, and risk category  
 → Built using: Plotly Dash, Flask, GeoPandas 
 → Adds explainability and visual context to model predictions
 
-📁 **[Turbulence Risk Predictor]()**  
+📁 **Turbulence Risk Predictor**  
 Forecasts severe turbulence zones using 1.1M+ flight reports and ERA5 reanalysis weather data  
 → Highlights: Data cleaning, feature engineering, SMOTE, Isolation Forest, PCA, XGBoost  
 → Achieved *91.8% accuracy* on unseen 2025 flight data
 
-📁 **[Cancer Genomics Classifier]()**  
+📁 **Cancer Genomics Classifier**  
 Predicts cancer outcomes using 8,000+ genomic features and ensemble models  
 → Focus: Random Forest modeling with 9-fold cross-validation  
 → Achieved *86% sensitivity* and *90% specificity*
@@ -62,8 +62,6 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![NetCDF4](https://img.shields.io/badge/NetCDF4-004d99?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
 
 #### • Visualization & Explainability
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -83,13 +81,15 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-#### • Supporting Technologies
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005f73?style=for-the-badge&logo=fastapi&logoColor=white)
+#### • Developer Experience
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST--API-005C84?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005f73?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 <!-- 
