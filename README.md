@@ -18,12 +18,12 @@ I'm a Computer Science graduate student at *Ohio University*, with strong hands-
 
 ### 📌 Featured Projects
 
-📁 **[U.S. Turbulence Visualizer]()**  
+📁 **[U.S. Turbulence Visualizer](https://github.com/godhanaravara/aviation-turbulence-risk-predictor-ML.git)**  
 Interactive dashboard to explore turbulence zones by altitude, time, and risk category  
 → Built using: Plotly Dash, Flask, GeoPandas  
 → Adds explainability and visual context to model predictions
 
-📁 **[Turbulence Risk Predictor]()**  
+📁 **[Turbulence Risk Predictor](https://github.com/godhanaravara/aviation-turbulence-risk-predictor-ML.git)**  
 Forecasts severe turbulence zones using 1.1M+ flight reports and ERA5 reanalysis weather data  
 → Highlights: Data cleaning, feature engineering, SMOTE, Isolation Forest, PCA, XGBoost  
 → Achieved *91.8% accuracy* on unseen 2025 flight data
@@ -106,3 +106,4 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 
 🇮🇳  [LinkedIn](https://www.linkedin.com/in/godha-naravara/)<br>
 ✉ godhanaravara@outlook.com
+
