@@ -16,7 +16,13 @@ I'm a Computer Science graduate student at *Ohio University*, with strong hands-
 
 ---
 
-### 📌 Featured Projects
+### </> Featured Projects
+
+📁 **[Reddit AI Job Sentiment Tracker](https://github.com/godhanaravara/reddit-trend-sentiment)** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=150&lines=NEW!" 
+     height="35" style="vertical-align:middle;margin-right:6px;" />  
+Monitors global discourse on AI-driven job displacement using real-time Reddit data streams.  
+→ Built Databricks + Apache Spark pipeline with PRAW API, NLP preprocessing (NLTK), and sentiment analysis (VADER).  
+→ Created interactive Plotly dashboards and Gradient Boosted models, reducing insight latency by 50% for PR teams.  
 
 📁 **[U.S. Turbulence Visualizer](https://github.com/godhanaravara/aviation-turbulence-risk-predictor-ML.git)**  
 Interactive dashboard to explore turbulence zones by altitude, time, and risk category  
@@ -28,7 +34,7 @@ Forecasts severe turbulence zones using 1.1M+ flight reports and ERA5 reanalysis
 → Highlights: Data cleaning, feature engineering, SMOTE, Isolation Forest, PCA, XGBoost  
 → Achieved *91.8% accuracy* on unseen 2025 flight data
 
-📁 **[Cancer Genomics Classifier]()**  
+📁 **[Cancer Genomics Classifier]()** <img src="https://media.giphy.com/media/xT9IgpTy3h9Z4KuvAA/giphy.gif" width="40" />  
 Predicts cancer outcomes using 8,000+ genomic features and ensemble models  
 → Focus: Random Forest modeling with 9-fold cross-validation  
 → Achieved *86% sensitivity* and *90% specificity*
@@ -46,24 +52,34 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-#### • Machine Learning & Modeling
+#### • Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B24?style=for-the-badge&logo=xgboost&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-ffcc00?style=for-the-badge&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-0A1E5E?style=for-the-badge)
 ![TabNet](https://img.shields.io/badge/TabNet-blue?style=for-the-badge)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-darkgreen?style=for-the-badge)
 ![MLP](https://img.shields.io/badge/MLP-neuralnet-8A2BE2?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-000080?style=for-the-badge)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-6A5ACD?style=for-the-badge)
-![KNN](https://img.shields.io/badge/KNN-algorithm-ffa500?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-ffa500?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2E86C1?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-800080?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents%20(LangChain%2C%20AutoGen)-333333?style=for-the-badge)
 ![SMOTE](https://img.shields.io/badge/SMOTE-brown?style=for-the-badge)
-![IsolationForest](https://img.shields.io/badge/Isolation%20Forest-gray?style=for-the-badge)
+![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-gray?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-#### • Data Wrangling & Engineering
+
+#### • Data Wrangling & Engineering  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![NetCDF4](https://img.shields.io/badge/NetCDF4-004d99?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-#### • Visualization & Explainability
+#### • Visualization & Explainability  
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly Dash](https://img.shields.io/badge/Dash-003366?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9A1EAE?style=for-the-badge)
@@ -71,9 +87,15 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge)
 ![Cartopy](https://img.shields.io/badge/Cartopy-003300?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-explainableAI-red?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-#### • Cloud & Infrastructure
+#### • Cloud & Infrastructure  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -81,19 +103,10 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-#### • Developer Experience
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST--API-005C84?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005f73?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 <!-- 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=godhanaravara&show_icons=true&theme=radical" alt="stats" />
@@ -106,4 +119,5 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 
 🇮🇳  [LinkedIn](https://www.linkedin.com/in/godha-naravara/)<br>
 ✉ godhanaravara@outlook.com
+
 
