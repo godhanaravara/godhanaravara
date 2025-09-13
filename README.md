@@ -20,10 +20,9 @@ I'm a Computer Science graduate student at *Ohio University*, with strong hands-
 
 📁 **[Multilingual LLM-based Medical FAQ Answering Pipeline](https://github.com/godhanaravara/LLM-healthcare-multilingual-faq-generator.git)** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=150&lines=NEW!" 
      height="35" style="vertical-align:middle;margin-right:6px;" />  
-Generates multilingual healthcare FAQ answers on MedQuAD (English, Spanish, Telugu) using a scalable LLM pipeline with RAG, sentence transformer embeddings, and quality checks, supporting full-stack telehealth automation.  
-→ Processed 16,412 medical Q&A with Databricks Spark and NLTK. Stored 16,359 Parquet rows on Azure Blob, fine-tuned FLAN T5 base (3 epochs) with Hugging Face, reaching ROUGE 1 = 0.316 on 500 evals in ~37 hours.  
-→ LangChain RAG with FAISS (sentence-transformers); 500 tests: 331 Correct, 127 Partial, 42 Incorrect; GCP Translation outputs Spanish/Telugu in ~60s per language.  
-→ Orchestrates Jupyter notebooks on Databricks/WSL for data preprocessing, training, RAG, and translation, leveraging PySpark and scikit-learn for real-time, multilingual FAQ generation with bias-checked, scalable vector search.  
+Generates multilingual healthcare FAQ answers on MedQuAD (English, Spanish, Telugu) with a scalable LLM RAG workflow.   
+→ Built using Databricks PySpark, NLTK, Azure Blob Parquet, LangChain + FAISS with sentence transformer embeddings, Hugging Face FLAN T5, and GCP Translation.  
+→ Adds evaluation and governance with TF IDF retrieval checks, ROUGE, and human review to support telehealth automation.  
 
 📁 **[Reddit AI Job Sentiment Tracker](https://github.com/godhanaravara/reddit-trend-sentiment)** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=150&lines=NEW!" 
      height="35" style="vertical-align:middle;margin-right:6px;" />  
@@ -41,7 +40,7 @@ Forecasts severe turbulence zones using 1.1M+ flight reports and ERA5 reanalysis
 → Highlights: Data cleaning, feature engineering, SMOTE, Isolation Forest, PCA, XGBoost  
 → Achieved *91.8% accuracy* on unseen 2025 flight data
 
-📁 **[Cancer Genomics Classifier]()** <img src="https://media.giphy.com/media/xT9IgpTy3h9Z4KuvAA/giphy.gif" width="40" />  
+📁 **[Cancer Genomics Classifier]()** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZibjM4NXlwYmJpMzJjN2tqY3Rvc215ZHNvbHlseXI5bGk0dXV2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlBnWRmJH7DcvS/giphy.gif" width="40" />  
 Predicts cancer outcomes using 8,000+ genomic features and ensemble models  
 → Focus: Random Forest modeling with 9-fold cross-validation  
 → Achieved *86% sensitivity* and *90% specificity*
@@ -126,6 +125,7 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 
 🇮🇳  [LinkedIn](https://www.linkedin.com/in/godha-naravara/)<br>
 ✉ godhanaravara@outlook.com
+
 
 
 
