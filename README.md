@@ -19,11 +19,11 @@ I'm a Computer Science graduate student at *Ohio University*, with strong hands-
 ### </> Featured Projects
 
 📁 **[Multilingual LLM-based Medical FAQ Answering Pipeline](https://github.com/godhanaravara/LLM-healthcare-multilingual-faq-generator.git)** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=150&lines=NEW!" 
-     height="35" style="vertical-align:middle;margin-right:6px;" />
-Generates multilingual FAQ responses for healthcare queries using a scalable LLM pipeline (English → Spanish/Telugu) on the MedQuAD dataset, implementing RAG with sentence-transformers embeddings for accurate retrieval and quality evaluation, while supporting full-stack telehealth automation to reduce clinician workload through cloud-native, multilingual NLP.
-→ Processes 16,412 medical Q&A pairs using Databricks Spark and NLTK for cleaning, storing 16,359 Parquet rows in Azure Blob, and fine-tunes google/flan-t5-base (250M params, 3 epochs) with Hugging Face Transformers, achieving ROUGE-1: 0.316 on 500 eval samples in ~37 hours.
-→ Implements RAG with LangChain and FAISS using sentence-transformers embeddings for TF-IDF similarity, yielding 331 Correct/127 Partial/42 Incorrect verdicts on 500 tests, and integrates GCP Translation API for Spanish/Telugu outputs in ~60s per language.
-→ Orchestrates Jupyter notebooks on Databricks/WSL for data preprocessing, training, RAG, and translation, leveraging PySpark and scikit-learn for real-time, multilingual FAQ generation with bias-checked, scalable vector search.
+     height="35" style="vertical-align:middle;margin-right:6px;" />  
+Generates multilingual healthcare FAQ answers on MedQuAD (English, Spanish, Telugu) using a scalable LLM pipeline with RAG, sentence transformer embeddings, and quality checks, supporting full-stack telehealth automation.  
+→ Processed 16,412 medical Q&A with Databricks Spark and NLTK. Stored 16,359 Parquet rows on Azure Blob, fine-tuned FLAN T5 base (3 epochs) with Hugging Face, reaching ROUGE 1 = 0.316 on 500 evals in ~37 hours.  
+→ LangChain RAG with FAISS (sentence-transformers); 500 tests: 331 Correct, 127 Partial, 42 Incorrect; GCP Translation outputs Spanish/Telugu in ~60s per language.  
+→ Orchestrates Jupyter notebooks on Databricks/WSL for data preprocessing, training, RAG, and translation, leveraging PySpark and scikit-learn for real-time, multilingual FAQ generation with bias-checked, scalable vector search.  
 
 📁 **[Reddit AI Job Sentiment Tracker](https://github.com/godhanaravara/reddit-trend-sentiment)** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=150&lines=NEW!" 
      height="35" style="vertical-align:middle;margin-right:6px;" />  
@@ -126,6 +126,7 @@ Predicts cancer outcomes using 8,000+ genomic features and ensemble models
 
 🇮🇳  [LinkedIn](https://www.linkedin.com/in/godha-naravara/)<br>
 ✉ godhanaravara@outlook.com
+
 
 
 
